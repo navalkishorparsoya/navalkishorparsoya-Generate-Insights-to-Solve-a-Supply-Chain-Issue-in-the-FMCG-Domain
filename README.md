@@ -8,10 +8,10 @@ AtliQ Mart, a growing FMCG manufacturer, is facing challenges in retaining key c
 
 To address this issue, the supply chain analytics team is tasked with tracking the following delivery performance metrics daily:
 
-On-Time Delivery Percentage (OT%)
-In-Full Delivery Percentage (IF%)
-On-Time In-Full Delivery Percentage (OTIF%)
-These metrics will help identify problem areas and ensure swift responses to improve customer satisfaction.
+- On-Time Delivery Percentage (OT%)
+- In-Full Delivery Percentage (IF%)
+- On-Time In-Full Delivery Percentage (OTIF%)
+- These metrics will help identify problem areas and ensure swift responses to improve customer satisfaction.
 
 # Project Objectives
 
@@ -21,31 +21,33 @@ These metrics will help identify problem areas and ensure swift responses to imp
 
 # Tools and Techniques Used
 Tools
-Power BI: For data visualization and dashboard creation.
-SQL: For data preprocessing and querying.
-Excel: For initial data exploration.
+- Power BI: For data visualization and dashboard creation.
+- SQL: For data preprocessing and querying.
+- Excel: For initial data exploration.
 
 # Techniques
-KPI Visualization: Displaying key metrics prominently.
-Sparklines: Highlighting trends in data.
-Bookmarks and Navigation Buttons: Enhancing user interactivity.
-Decomposition Tree: Analyzing performance at a granular level.
-DAX Functions: For complex calculations like day gaps and distinct counts.
+- KPI Visualization: Displaying key metrics prominently.
+- Sparklines: Highlighting trends in data.
+- Bookmarks and Navigation Buttons: Enhancing user interactivity.
+- Decomposition Tree: Analyzing performance at a granular level.
+- DAX Functions: For complex calculations like day gaps and distinct counts.
 
 # Insights from the Dashboard
-Product Analysis:
+1. Product Analysis:
 
-AM Milk products had the highest demand but were often delayed or incomplete.
-AM Butter showed the highest order line frequency, indicating customer preference.
-AM Curd consistently achieved high full delivery rates despite delays.
-Delivery Performance:
+- AM Milk products had the highest demand but were often delayed or incomplete.
+- AM Butter showed the highest order line frequency, indicating customer preference.
+- AM Curd consistently achieved high full delivery rates despite delays.
 
-OTIF% fell below the target in Surat and Ahmedabad, suggesting these cities require operational focus.
-High undelivered quantities are correlated with stock shortages for certain products.
-Customer Impact:
+2. Delivery Performance:
 
-Key customers with frequent incomplete deliveries are at risk of non-renewal.
-Trends suggest prioritizing timely replenishment of AM Milk products.
+- OTIF% fell below the target in Surat and Ahmedabad, suggesting these cities require operational focus.
+- High undelivered quantities are correlated with stock shortages for certain products.
+
+3. Customer Impact:
+
+- Key customers with frequent incomplete deliveries are at risk of non-renewal.
+- Trends suggest prioritizing timely replenishment of AM Milk products.
 
 # Key Learnings
 - Understanding supply chain metrics and their impact on customer satisfaction.
